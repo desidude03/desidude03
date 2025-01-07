@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 🌱 I’m currently learning and exploring new technologies.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to programming, I'm happy to help!
-- 📫 How to reach me: [Your Email](mailto:sayedm.muzammil@gmail.com)
+- 📫 How to reach me: [Sayed Muzammil](mailto:sayedm.muzammil@gmail.com)
 - 😄 Pronouns: He/Him
 
 ## My Skills
