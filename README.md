@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 💬 Ask me about anything related to programming, I'm happy to help!
 - 📫 How to reach me: [Sayed Muzammil](mailto:sayedm.muzammil@gmail.com)
 - 😄 Pronouns: He/Him
+- 📝 I had the privilege of being an initial reviewer for GitHub Copilot, contributing to its development and success.
 
 ## My Skills
 
