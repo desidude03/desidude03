@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 Here are some of the technologies and tools I work with:
 
 - **Programming Languages:** 
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC? ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)logo=typescript&logoColor=white&style=flat)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 - **Web Development:**
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 - **Tools & Platforms:**
