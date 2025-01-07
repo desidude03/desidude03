@@ -34,7 +34,7 @@ Here are some of the technologies and tools I work with:
 
 ## Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Twitter](https://twitter.com/your-twitter)
+- [LinkedIn](https://www.linkedin.com/in/desidude03/)
+- [Twitter](https://twitter.com/desidude03)
 
 Thank you for visiting my profile! Have a great day! 😊
