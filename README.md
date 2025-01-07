@@ -21,10 +21,6 @@ Here are some of the technologies and tools I work with:
 - **Tools & Platforms:**
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
-## My GitHub Stats
-
-![desidude03's GitHub stats](https://github-readme-stats.vercel.app/api?username=desidude03&show_icons=true&theme=radical)
-
 ## Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/desidude03/)
